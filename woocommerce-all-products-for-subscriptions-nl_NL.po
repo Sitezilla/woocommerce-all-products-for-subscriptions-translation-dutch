@@ -1,0 +1,774 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-04 14:11:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: WooCommerce - Extensions - woocommerce-all-products-for-subscriptions\n"
+
+#: includes/modules/management/class-wcs-att-manage-switch.php:516
+msgctxt "add to cart button text while switching a subscription"
+msgid "Switch subscription"
+msgstr "Abonnement wisselen"
+
+#. Author URI of the plugin
+#: woocommerce-all-products-for-subscriptions.php
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#: includes/product/class-wcs-att-product-schemes.php:167
+msgid "Could not fetch subscription plans for variation with ID %d. This indicates that this variation may be an orphaned variation. To clear orphaned variations, go to \"WooCommerce > Status > Tools\" and click \"Delete orphaned variations\"."
+msgstr "Kon abonnementen niet ophalen voor variatie met ID %d. Dit geeft aan dat deze variatie mogelijk niet gekoppeld is. Om niet-gekoppelde variaties te verwijderen, ga je naar 'WooCommerce > Status > Tools' en klik je op 'Niet-gekoppelde variaties verwijderen'."
+
+#: includes/class-wcs-att-integrations.php:194
+msgid "Woo Product Add-Ons"
+msgstr "Woo Product Add-ons"
+
+#: includes/class-wcs-att-integrations.php:178
+msgid "Woo Composite Products"
+msgstr "Woo-samengestelde producten"
+
+#: includes/class-wcs-att-integrations.php:164
+msgid "Woo Product Bundles"
+msgstr "Woo-productbundels"
+
+#: includes/admin/views/html-admin-page-status-report.php:17
+msgid "All Products for Woo Subscriptions"
+msgstr "All Products for Woo Subscriptions"
+
+#. Author of the plugin
+#: woocommerce-all-products-for-subscriptions.php
+msgid "Woo"
+msgstr "Woo"
+
+#. Description of the plugin
+#: woocommerce-all-products-for-subscriptions.php
+msgid "Make existing products available on subscription, and give customers the freedom to add products to their existing subscriptions."
+msgstr "Stel bestaande producten beschikbaar als abonnement en geef klanten de vrijheid om producten toe te voegen aan hun bestaande abonnementen."
+
+#. Plugin Name of the plugin
+#: woocommerce-all-products-for-subscriptions.php
+msgid "Woo All Products For Subscriptions"
+msgstr "Voor alle abonnementproducten"
+
+#: woocommerce-all-products-for-subscriptions.php:467
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: woocommerce-all-products-for-subscriptions.php:466
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: woocommerce-all-products-for-subscriptions.php:243
+msgid "Please update WooCommerce."
+msgstr "Werk WooCommerce bij."
+
+#: woocommerce-all-products-for-subscriptions.php:241
+msgid "Please install and activate WooCommerce."
+msgstr "Installeer en activeer WooCommerce."
+
+#: woocommerce-all-products-for-subscriptions.php:239
+msgid "All Products for Woo Subscriptions requires at least WooCommerce version <strong>%1$s</strong>. %2$s"
+msgstr "Alle producten voor Woo Subscriptions vereisen minimaal WooCommerce versie <strong>%1$s</strong>. %2$s"
+
+#: woocommerce-all-products-for-subscriptions.php:231
+msgid "All Products for Woo Subscriptions requires at least PHP <strong>%1$s</strong>. Learn <a href=\"%2$s\">how to update PHP</a>."
+msgstr "All Products for Woo Subscriptions vereisen minimaal PHP <strong>%1$s</strong>. Leer <a href=\"%2$s\">hoe je PHP kunt updaten</a>."
+
+#: woocommerce-all-products-for-subscriptions.php:220
+msgid "All Products for Woo Subscriptions requires at least <a href=\"%1$s\" target=\"_blank\">WooCommerce Payments</a> version <strong>%2$s</strong> or <a href=\"%3$s\" target=\"_blank\">WooCommerce Subscriptions</a> version <strong>%4$s</strong>."
+msgstr "All Products for Woo Subscriptions vereisen minimaal <a href=\"%1$s\" target=\"_blank\">WooCommerce Payments</a> versie <strong>%2$s</strong> of <a href=\"%3$s\" target=\"_blank\">WooCommerce Subscriptions</a> versie <strong>%4$s</strong>."
+
+#: woocommerce-all-products-for-subscriptions.php:215
+msgid "All Products for Woo Subscriptions requires Subscriptions to be enabled in the <strong>WooCommerce Payments</strong> <a href=\"%1$s\" target=\"_blank\">settings</a>."
+msgstr ""
+
+#: woocommerce-all-products-for-subscriptions.php:212
+msgid "All Products for Woo Subscriptions requires at least <a href=\"%1$s\" target=\"_blank\">WooCommerce Payments</a> version <strong>%2$s</strong>."
+msgstr "Alle producten voor WooCommerce Subscriptions vereisen minimaal <a href=\"%1$s\" target=\"_blank\">WooCommerce Payments</a> versie <strong>%2$s</strong>."
+
+#: woocommerce-all-products-for-subscriptions.php:204
+msgid "All Products for Woo Subscriptions requires at least <a href=\"%1$s\" target=\"_blank\">WooCommerce Subscriptions</a> version <strong>%2$s</strong>."
+msgstr "Alle producten voor WooCommerce Subscriptions vereisen minimaal <a href=\"%1$s\" target=\"_blank\">WooCommerce Subscriptions</a> versie <strong>%2$s</strong>."
+
+#: includes/class-wcs-att-product-data.php:58
+#: includes/class-wcs-att-product-data.php:67
+#: woocommerce-all-products-for-subscriptions.php:99
+#: woocommerce-all-products-for-subscriptions.php:108
+msgid "Foul!"
+msgstr "Fout!"
+
+#: templates/single-product/product-add-to-subscription.php:23
+msgid "Add to an existing subscription?"
+msgstr "Toevoegen aan een bestaand abonnement?"
+
+#: templates/checkout/cart-add-to-subscription.php:28
+msgid "Add your cart to an existing subscription?"
+msgstr "Je winkelwagen toevoegen aan een bestaand abonnement?"
+
+#: templates/cart/cart-add-to-subscription.php:28
+msgid "Add this cart to an existing subscription?"
+msgstr "Deze winkelwagen toevoegen aan een bestaand abonnement?"
+
+#: templates/cart/cart-add-to-subscription.php:22
+#: templates/checkout/cart-add-to-subscription.php:22
+msgid "&mdash; or &mdash;"
+msgstr "— of —"
+
+#: templates/cart/cart-add-to-subscription-list.php:64
+msgid "Add to subscription"
+msgstr "Toevoegen aan abonnement"
+
+#: templates/cart/cart-add-to-subscription-list.php:59
+msgctxt "Used in data attribute. Escaped"
+msgid "Total"
+msgstr "Totaal"
+
+#: templates/cart/cart-add-to-subscription-list.php:47
+msgctxt "table heading"
+msgid "Next Payment"
+msgstr "Volgende betaling"
+
+#: templates/cart/cart-add-to-subscription-list.php:44
+msgctxt "Used in data attribute. Escaped"
+msgid "Products"
+msgstr "Producten"
+
+#: templates/cart/cart-add-to-subscription-list.php:41
+msgctxt "hash before order number"
+msgid "#%s"
+msgstr "Nummer%s"
+
+#: templates/cart/cart-add-to-subscription-list.php:40
+msgid "ID"
+msgstr "ID"
+
+#: templates/cart/cart-add-to-subscription-list.php:20
+msgid "No matching subscriptions found."
+msgstr "Geen overeenkomende abonnementen gevonden."
+
+#: includes/product/class-wcs-att-product-prices.php:425
+msgctxt "product sub options price html suffix"
+msgid "%1$s%2$s"
+msgstr ""
+
+#: includes/product/class-wcs-att-product-prices.php:408
+msgid " <span class=\"wcsatt-dash\">&mdash;</span> available on subscription"
+msgid_plural " <span class=\"wcsatt-dash\">&mdash;</span> available on subscription"
+msgstr[0] " <span class=\"wcsatt-dash\">—</span> beschikbaar in abonnement"
+msgstr[1] " <span class=\"wcsatt-dash\">—</span> beschikbaar in abonnement"
+
+#: includes/product/class-wcs-att-product-prices.php:406
+msgid " <span class=\"wcsatt-dash\">&mdash;</span> or %s"
+msgid_plural " <span class=\"wcsatt-dash\">&mdash;</span> available on subscription %s"
+msgstr[0] " <span class=\"wcsatt-dash\">—</span> of %s"
+msgstr[1] " <span class=\"wcsatt-dash\">—</span> beschikbaar in abonnement %s"
+
+#: includes/product/class-wcs-att-product-prices.php:398
+msgctxt "subscriptions \"starting at\" price string"
+msgid "<span class=\"from\">from</span> "
+msgstr "<span class=\"from\">van</span> "
+
+#: includes/product/class-wcs-att-product-prices.php:398
+msgctxt "Price range: starting at"
+msgid "%1$s%2$s"
+msgstr ""
+
+#: includes/product/class-wcs-att-product-prices.php:365
+msgctxt "subscribe and save suffix format"
+msgid " <span class=\"wcsatt-dash\">&mdash;</span> or %s"
+msgstr " <span class=\"wcsatt-dash\">—</span> of %s"
+
+#: includes/product/class-wcs-att-product-prices.php:364
+msgid "subscribe and save %1$s%2$s"
+msgstr "abonneren en opslaan %1$s%2$s"
+
+#: includes/product/class-wcs-att-product-prices.php:359
+#: includes/product/class-wcs-att-product-prices.php:364
+msgid "up to"
+msgstr "tot"
+
+#. translators: %s: Discount % (Use encoded value when translating the %
+#. character. Use &#37; instead of %.)
+#: includes/product/class-wcs-att-product-prices.php:358
+#: includes/product/class-wcs-att-product-prices.php:363
+msgctxt "subscribe and save discount"
+msgid "%s&#37;"
+msgstr "%s&#37;"
+
+#: includes/product/class-wcs-att-product-prices.php:221
+#: includes/product/class-wcs-att-product-prices.php:283
+#: includes/product/class-wcs-att-product-prices.php:400
+msgctxt "Price range: from"
+msgid "%1$s%2$s"
+msgstr ""
+
+#: includes/product/class-wcs-att-product-prices.php:214
+msgctxt "subscription price string with price at the end"
+msgid "%1$s for %2$s"
+msgstr "%1$s voor %2$s"
+
+#: includes/product/class-wcs-att-product-prices.php:212
+msgctxt "subscription price string with price at the end"
+msgid "%1$s from %2$s"
+msgstr "%1$s van %2$s"
+
+#: includes/product/class-wcs-att-product-prices.php:196
+msgctxt "discounted option price html format"
+msgid "%1$s &mdash; save %2$s"
+msgstr "%1$s — opslaan %2$s"
+
+#. translators: %s: Discount % (Use encoded value when translating the %
+#. character. Use &#37; instead of %.)
+#: includes/product/class-wcs-att-product-prices.php:195
+msgctxt "option discount"
+msgid "%s&#37;"
+msgstr "%s&#37;"
+
+#: includes/product/class-wcs-att-product-prices.php:122
+#: includes/product/class-wcs-att-product-prices.php:400
+msgctxt "subscription \"from\" price string"
+msgid "<span class=\"from\">from</span> "
+msgstr "<span class=\"from\">van</span> "
+
+#: includes/product/class-wcs-att-product-prices.php:121
+msgctxt "subscription \"for\" price string"
+msgid "<span class=\"for\">for</span> "
+msgstr "<span class=\"for\">voor</span> "
+
+#: includes/product/class-wcs-att-product-prices.php:119
+msgctxt "Subscribe to plan(s) for discount"
+msgid "Subscribe and save %1$s%2$s"
+msgstr "Abonneren en opslaan %1$s%2$s"
+
+#: includes/product/class-wcs-att-product-prices.php:118
+msgctxt "Subscribe to plans"
+msgid "Subscribe from %s"
+msgstr "Abonneren via %s"
+
+#: includes/product/class-wcs-att-product-prices.php:117
+msgctxt "Subscribe to plan"
+msgid "Subscribe for %s"
+msgstr "Abonneren voor %s"
+
+#: includes/product/class-wcs-att-product-prices.php:116
+msgctxt "Subscribe call-to-action"
+msgid "Subscribe"
+msgstr "Abonneren"
+
+#: includes/modules/management/class-wcs-att-manage-add.php:602
+msgid "You have successfully added the contents of your cart to subscription %s."
+msgstr "Je hebt de inhoud van je winkelwagen toegevoegd aan abonnement %s."
+
+#: includes/modules/management/class-wcs-att-manage-add.php:600
+msgid "You have successfully added \"%1$s\" to subscription %2$s."
+msgstr "Je hebt '%1$s' toegevoegd aan abonnement %2$s."
+
+#: includes/modules/management/class-wcs-att-manage-add.php:573
+msgctxt "used in order note"
+msgid "Customer added \"%1$s\" (Product ID: #%2$d)."
+msgstr "De klant heeft '%1$s' toegevoegd (productnummer: %2$d)."
+
+#: includes/modules/management/class-wcs-att-manage-add.php:563
+msgid "There was a problem adding \"%1$s\" to subscription %2$s."
+msgstr "Er is een probleem opgetreden bij het toevoegen van '%1$s' aan abonnement %2$s."
+
+#: includes/modules/management/class-wcs-att-manage-add.php:494
+msgctxt "used in order note"
+msgid "Customer increased the quantity of \"%1$s\" (Product ID: #%2$d) from %3$s to %4$s."
+msgstr "De klant heeft het aantal van '%1$s' verhoogd (productnummer: %2$d) van %3$s naar %4$s."
+
+#: includes/modules/management/class-wcs-att-manage-add.php:351
+msgid "Action failed. Please get in touch with us for assistance."
+msgstr "Actie mislukt. Neem contact met ons op voor ondersteuning."
+
+#: includes/modules/management/class-wcs-att-manage-add.php:314
+msgid "There was a problem adding \"%1$s\" to subscription %2$s. Please get in touch with us for assistance."
+msgstr "Er is een probleem opgetreden bij het toevoegen van '%1$s' aan abonnement %2$s. Neem contact met ons op voor ondersteuning."
+
+#: includes/modules/management/class-wcs-att-manage-add.php:312
+#: includes/modules/management/class-wcs-att-manage-add.php:367
+msgctxt "link to subscription"
+msgid "<a href=\"%1$s\">#%2$s</a>"
+msgstr "<a href=\"%1$s\">Nr.%2$s</a>"
+
+#. translators: 1: product name 2: quantity in stock
+#: includes/modules/management/add/class-wcs-att-manage-add-product.php:423
+msgid "&quot;%1$s&quot; does not have enough stock (%2$s remaining)."
+msgstr "'%1$s' heeft onvoldoende voorraad (%2$s resterend)."
+
+#: includes/modules/management/add/class-wcs-att-manage-add-product.php:417
+msgid "&quot;%s&quot; is out of stock."
+msgstr "‘%s’ is niet op voorraad."
+
+#: includes/modules/management/add/class-wcs-att-manage-add-cart.php:333
+msgid "Your cart cannot be added to subscription #%d. Please get in touch with us for assistance."
+msgstr "Je winkelwagen kan niet toegevoegd worden aan abonnement nr. %d. Neem contact met ons op voor ondersteuning."
+
+#: includes/modules/management/add/class-wcs-att-manage-add-cart.php:301
+#: includes/modules/management/add/class-wcs-att-manage-add-product.php:269
+msgid "Subscription #%d cannot be edited. Please get in touch with us for assistance."
+msgstr "Het aangevraagde abonnement nr. %d kan niet worden bewerkt. Neem contact met ons op voor ondersteuning."
+
+#: includes/integrations/class-wcs-att-integration-pb-cp.php:1301
+msgid "Between Composite Product Configurations"
+msgstr "Tussen configuraties van samengestelde producten"
+
+#: includes/integrations/class-wcs-att-integration-pb-cp.php:1287
+msgid "Between Product Bundle Configurations"
+msgstr "Tussen configuraties van productbundels"
+
+#: includes/integrations/class-wcs-att-integration-pb-cp.php:1258
+msgctxt "used in order note"
+msgid "\"%1$s\" (Product ID: #%2$d) removal un-done by \"%3$s\" via the My Account page."
+msgstr "Verwijdering van '%1$s' (productnummer: %2$d) ongedaan gemaakt door '%3$s' via de pagina Mijn account."
+
+#: includes/integrations/class-wcs-att-integration-pb-cp.php:1203
+msgctxt "used in order note"
+msgid "\"%1$s\" (Product ID: #%2$d) removal triggered by \"%3$s\" via the My Account page."
+msgstr "Verwijdering van '%1$s' (productnummer: nummer %2$d) geactiveerd door '%3$s' via de pagina Mijn account."
+
+#: includes/integrations/class-wcs-att-integration-pb-cp.php:943
+msgctxt "dropdown option sale price"
+msgid "%1$s (was %2$s)"
+msgstr "%1$s (voorheen %2$s)"
+
+#: includes/integrations/class-wcs-att-integration-pb-cp.php:941
+#: includes/product/class-wcs-att-product-prices.php:593
+#: includes/product/class-wcs-att-product-prices.php:601
+msgctxt "dropdown option discount"
+msgid "%s%%"
+msgstr ""
+
+#: includes/display/class-wcs-att-display-product.php:704
+msgid "Select plan"
+msgstr "Abonnement selecteren"
+
+#: includes/display/class-wcs-att-display-product.php:526
+#: includes/display/class-wcs-att-display-product.php:707
+msgid "Sign up"
+msgstr "Inschrijven"
+
+#: includes/display/class-wcs-att-display-product.php:452
+msgid "Choose a subscription plan:"
+msgstr "Kies een abonnement:"
+
+#: includes/display/class-wcs-att-display-product.php:452
+msgid "Choose a purchase plan:"
+msgstr "Kies een aankoopplan:"
+
+#: includes/display/class-wcs-att-display-product.php:419
+msgid "Choose a plan:"
+msgstr "Kies een abonnement:"
+
+#: includes/display/class-wcs-att-display-product.php:416
+msgid "Renew:"
+msgstr "Verlengen:"
+
+#: includes/display/class-wcs-att-display-product.php:412
+msgid "Deliver:"
+msgstr "Leveren:"
+
+#: includes/display/class-wcs-att-display-product.php:385
+#: includes/integrations/class-wcs-att-integration-pb-cp.php:941
+msgctxt "discounted dropdown option price"
+msgid "%1$s (%2$s off)"
+msgstr "%1$s (%2$s korting)"
+
+#: includes/display/class-wcs-att-display-product.php:296
+#: includes/integrations/class-wcs-att-integration-pb-cp.php:895
+msgid "One-time for %s"
+msgstr "Eenmalig voor %s"
+
+#: includes/display/class-wcs-att-display-product.php:292
+msgid "Purchase one time"
+msgstr "Eenmalig aanschaffen"
+
+#: includes/display/class-wcs-att-display-product.php:270
+msgctxt "Subscribe call-to-action - checkbox"
+msgid "Choose a subscription plan"
+msgstr "Kies een abonnement"
+
+#: includes/display/class-wcs-att-display-product.php:105
+#: includes/integrations/class-wcs-att-integration-pb-cp.php:896
+msgctxt "product subscription selection - negative response"
+msgid "%s one time"
+msgstr "%s eenmalig"
+
+#: includes/display/class-wcs-att-display-product.php:101
+msgctxt "product subscription selection - negative response"
+msgid "one time"
+msgstr "eenmalig"
+
+#: includes/display/class-wcs-att-display-cart.php:119
+msgctxt "cart item subscription selection - negative response"
+msgid "one time"
+msgstr "eenmalig"
+
+#: includes/class-wcs-att-sync.php:172
+msgid "%s each year"
+msgstr "%s elk jaar"
+
+#: includes/class-wcs-att-sync.php:155 includes/class-wcs-att-sync.php:167
+msgid "Synchronization"
+msgstr "Synchronisatie"
+
+#: includes/class-wcs-att-order.php:350
+msgid "plan"
+msgstr "abonnement"
+
+#. translators: %1$s product name, %2$s quantity
+#: includes/class-wcs-att-order.php:200
+msgctxt "Order overview product row"
+msgid "%1$s&nbsp;&times;&nbsp;%2$s"
+msgstr "%1$s × %2$s"
+
+#: includes/class-wcs-att-integrations.php:193
+msgid "Product Add-Ons"
+msgstr "Add-ons voor product"
+
+#: includes/class-wcs-att-integrations.php:177
+msgid "Composite Products"
+msgstr "Samengestelde producten"
+
+#: includes/class-wcs-att-integrations.php:166
+#: includes/class-wcs-att-integrations.php:180
+#: includes/class-wcs-att-integrations.php:196
+msgid "The installed version of <strong>%1$s</strong> is not supported by <strong>All Products for Woo Subscriptions</strong>. Please update <a href=\"%2$s\" target=\"_blank\">%3$s</a> to version <strong>%4$s</strong> or higher."
+msgstr "De geïnstalleerde versie van <strong>%1$s</strong> wordt niet ondersteund door <strong>Alle producten voor WooCommerce Subscriptions</strong>. Update <a href=\"%2$s\" target=\"_blank\">%3$s</a> naar versie <strong>%4$s</strong> of hoger."
+
+#: includes/class-wcs-att-integrations.php:163
+msgid "Product Bundles"
+msgstr "Productbundels"
+
+#. translators: %1$s: Term, %2$s: Next term.
+#: includes/class-wcs-att-helpers.php:180
+msgctxt "many terms separator"
+msgid "%1$s&nbsp;&gt;&nbsp;&hellip;&nbsp;&gt;&nbsp;%2$s"
+msgstr "%1$s > … >%2$s"
+
+#. translators: %1$s: Term, %2$s: Next term.
+#: includes/class-wcs-att-helpers.php:160
+msgctxt "term separator"
+msgid "%1$s&nbsp;&gt;&nbsp;%2$s"
+msgstr "%1$s >%2$s"
+
+#: includes/class-wcs-att-display.php:71 includes/class-wcs-att-display.php:83
+msgid "Failed to load matching subscriptions. If this issue persists, please re-load the page and try again."
+msgstr "Overeenkomstige abonnementen laden mislukt. Als het probleem zich blijft voordoen, laad dan de pagina opnieuw en probeer het nogmaals."
+
+#: includes/class-wcs-att-display.php:70
+msgid "Failed to update your cart. If this issue persists, please re-load the page and try again."
+msgstr "Je winkelwagen bijwerken mislukt. Als het probleem zich blijft voordoen, laad dan de pagina opnieuw en probeer het nogmaals."
+
+#: includes/class-wcs-att-cart.php:468
+msgid "&quot;%1$s&quot; is only available for purchase on subscription."
+msgstr "'%1$s' is alleen beschikbaar als aankoop bij een abonnement."
+
+#: includes/class-wcs-att-cart.php:463 includes/class-wcs-att-cart.php:471
+msgid "The &quot;%s&quot; subscription plan that you originally signed up for has changed. Please remove the product from your cart and try again."
+msgstr "Het abonnement '%s' waarvoor je je oorspronkelijk hebt aangemeld, is veranderd. Verwijder het product en probeer het opnieuw."
+
+#: includes/class-wcs-att-cart.php:460
+msgid "The &quot;%1$s&quot; subscription plan that you originally signed up for is no longer available."
+msgstr "Het abonnement '%1$s' waarvoor je je oorspronkelijk hebt aangemeld, is niet meer beschikbaar."
+
+#. Translators: %1$s: Template name, %2$s: Template version, %3$s: Core
+#. version.
+#: includes/admin/views/html-admin-page-status-report.php:40
+msgid "%1$s version %2$s (out of date)"
+msgstr "%1$s versie %2$s (verouderd)"
+
+#: includes/admin/views/html-admin-page-status-report.php:23
+msgid "Shows any files overriding the default All Products for Woo Subscriptions templates."
+msgstr "Toont alle bestanden die de standaardsjablonen overschrijven voor Alle producten voor WooCommerce Subscriptions."
+
+#: includes/admin/views/html-admin-page-status-report.php:22
+msgid "Template overrides"
+msgstr "Sjabloon overschrijvingen"
+
+#: includes/admin/meta-boxes/views/subscription-scheme.php:17
+msgid "Remove"
+msgstr "Verwijder"
+
+#: includes/admin/meta-boxes/views/subscription-scheme.php:16
+msgid "Drag to sort"
+msgstr "Versleep om te sorteren"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:528
+msgid "To make this product available on subscription, you must add at least one custom subscription plan when overriding the global plan settings. You did not add any plans, or a server error prevented them from being saved. This product is now available for one-time purchase only."
+msgstr "Om dit product beschikbaar te maken in het abonnement, moet je minstens één aangepast abonnement toevoegen wanneer je de algemene abonnementinstellingen overschrijft. Je hebt geen abonnementen toegevoegd of een serverfout heeft voorkomen dat ze opgeslagen werden. Dit product is nu alleen beschikbaar als eenmalige aankoop."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:476
+msgid "Please enter positive subscription discount values, between 0-100."
+msgstr "Voer een positieve kortingswaarde, tussen 0 en 100, voor het abonnement in."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:389
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:420
+msgid "Discount applied on the <strong>Regular Price</strong> of the product."
+msgstr "Korting toegepast op de <strong>reguliere prijs</strong> van het product."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:388
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:419
+msgid "Discount %"
+msgstr "Korting %"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:347
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:292
+msgid "Choose the subscription billing length."
+msgstr "Kies factureringsduur voor het abonnement."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:288
+msgid "Length"
+msgstr "Lengte"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:279
+msgid "Choose the subscription billing interval and period."
+msgstr "Kies de factuurintervallen en -periode."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:264
+msgid "Interval"
+msgstr "Interval"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:198
+msgid "Options layout"
+msgstr "Lay-outopties"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:189
+msgid "Renders a pair of radio buttons to prompt users to subscribe, or make a one-time purchase. Groups the available plan options in a drop-down menu."
+msgstr "Geeft een aantal keuzerondjes weer die de gebruikers vragen aan te melden of een eenmalige aankoop te doen. Groepeert beschikbare abonnementopties in een vervolgkeuzemenu."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:188
+msgid "Grouped"
+msgstr "Gegroepeerd"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:182
+msgid "Renders all plan options as radio buttons."
+msgstr "Geeft alle abonnementopties weer als keuzerondjes."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:181
+msgid "Flat"
+msgstr "Plat"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:164
+msgid "Optional text/html to display above the available purchase plan options. Supports html and shortcodes."
+msgstr "Optionele tekst/html die wordt weergegeven boven de beschikbare aankoopplanopties. Ondersteunt html en shortcodes."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:157
+msgid "Disable this option if you want to prevent one-time purchases of this product."
+msgstr "Schakel deze optie uit als je eenmalige aankopen van dit product wilt voorkomen."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:154
+msgid "One-time purchase"
+msgstr "Eenmalige aankoop"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:148
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:140
+msgid "These plans will override your global subscription plans."
+msgstr "Deze abonnementen overschrijven je algemene abonnementen."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:139
+msgid "Add some custom subscription plans to this product."
+msgstr "Voeg een aantal aangepaste abonnement toe aan dit product."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:117
+msgid "Sell one-time only"
+msgstr "Alleen eenmalige aankopen"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:116
+msgid "Add custom subscription plans"
+msgstr "Aangepaste abonnementen toevoegen"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:115
+msgid "Use global subscription plans"
+msgstr "Algemene abonnementen gebruiken"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:113
+msgid "Use this option to override your <a href=\"%s\">global subscription plan settings</a>. Handy if you need to specify custom plans for this product, or make it available for one-time purchase only."
+msgstr "Gebruik deze optie om <a href=\"%s\">de instellingen van je algemene abonnementen</a> te overschrijven. Dit komt van pas als je aangepaste abonnementen voor dit product moet specificeren of als je dit product alleen wil aanbieden als eenmalige aankoop."
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:112
+msgid "Sell on subscription?"
+msgstr "Als abonnement verkopen?"
+
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:68
+msgid "Subscriptions"
+msgstr "Abonnementen"
+
+#: includes/admin/class-wcs-att-admin.php:498
+msgid "Discount to apply to the chosen variation when this plan is selected."
+msgstr "Korting is van toepassing op de gekozen variatie wanneer dit abonnement geselecteerd is."
+
+#: includes/admin/class-wcs-att-admin.php:497
+msgid "Discount to apply to the product when this plan is selected."
+msgstr "Korting is van toepassing op de product wanneer dit abonnement geselecteerd is."
+
+#: includes/admin/class-wcs-att-admin.php:496
+msgid "Override all variations"
+msgstr "Alle variaties overschrijven"
+
+#: includes/admin/class-wcs-att-admin.php:495
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:351
+msgid "Override product"
+msgstr "Product overschrijven"
+
+#: includes/admin/class-wcs-att-admin.php:494
+msgid "Inherit from chosen variation"
+msgstr "Overnemen van gekozen variatie"
+
+#: includes/admin/class-wcs-att-admin.php:493
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:350
+msgid "Inherit from product"
+msgstr "Overnemen van product"
+
+#: includes/admin/class-wcs-att-admin.php:492
+#: includes/class-wcs-att-sync.php:170 includes/class-wcs-att-sync.php:199
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: includes/admin/class-wcs-att-admin.php:384
+msgctxt "adding a cart to an existing subscription"
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: includes/admin/class-wcs-att-admin.php:383
+msgctxt "adding a cart to an existing subscription"
+msgid "Enabled when cart contents have Subscription Plans"
+msgstr "Ingeschakeld wanneer de winkelwageninhoud abonnementen omvat"
+
+#: includes/admin/class-wcs-att-admin.php:382
+msgctxt "adding a cart to an existing subscription"
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: includes/admin/class-wcs-att-admin.php:378
+msgid "Allow customers to add their cart contents to an existing subscription."
+msgstr "Sta klanten toe de inhoud van hun winkelwagen toe te voegen aan een bestaand abonnement."
+
+#: includes/admin/class-wcs-att-admin.php:377
+msgid "Cart Contents"
+msgstr "Winkelwageninhoud"
+
+#: includes/admin/class-wcs-att-admin.php:367
+msgctxt "adding a product to an existing subscription"
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: includes/admin/class-wcs-att-admin.php:366
+msgctxt "adding a product to an existing subscription"
+msgid "Enabled for products with Subscription Plans"
+msgstr "Ingeschakeld voor producten met abonnement"
+
+#: includes/admin/class-wcs-att-admin.php:365
+msgctxt "adding a product to an existing subscription"
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: includes/admin/class-wcs-att-admin.php:361
+msgid "Allow customers to add individual products to existing subscriptions."
+msgstr "Sta klanten toe de losse producten toe te voegen aan bestaande abonnementen."
+
+#: includes/admin/class-wcs-att-admin.php:360
+msgid "Products"
+msgstr "Producten"
+
+#: includes/admin/class-wcs-att-admin.php:356
+msgid "Allow customers to add individual products and/or entire carts to their existing subscriptions."
+msgstr "Sta klanten toe de losse producten en/of volledige winkelwagens toe te voegen aan hun bestaande abonnementen."
+
+#: includes/admin/class-wcs-att-admin.php:356
+msgid "Allow customers to add products to their existing subscriptions."
+msgstr "Sta klanten toe producten toe te voegen aan hun bestaande abonnementen."
+
+#: includes/admin/class-wcs-att-admin.php:354
+msgid "Add to Subscription"
+msgstr "Toevoegen aan abonnement"
+
+#: includes/admin/class-wcs-att-admin.php:342
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:165
+msgid "e.g. \"Choose a purchase plan:\""
+msgstr "bv. 'Kies een aankoopplan:'"
+
+#: includes/admin/class-wcs-att-admin.php:338
+msgid "Optional text/html to display above the available purchase plan options in product pages. Supports html and shortcodes."
+msgstr "Optionele tekst/html die wordt weergegeven boven de beschikbare aankoopplanopties op de productpagina's. Ondersteunt html en shortcodes."
+
+#: includes/admin/class-wcs-att-admin.php:337
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:163
+msgid "Prompt text"
+msgstr "Tekstprompt"
+
+#: includes/admin/class-wcs-att-admin.php:333
+msgid "Choose product categories&hellip;"
+msgstr "Kies-productcategorieën …"
+
+#: includes/admin/class-wcs-att-admin.php:326
+msgid "Restrict global plans to the selected product categories. If empty, global plans will be applied to all supported products in your catalog."
+msgstr "Beperk algemene abonnement tot de geselecteerde productcategorieën. Wanneer dit veld leeg is, worden algemene abonnementen toegepast op alle ondersteunde producten in je catalogus."
+
+#: includes/admin/class-wcs-att-admin.php:325
+msgid "Limit to Categories"
+msgstr "Beperken tot categorieën"
+
+#: includes/admin/class-wcs-att-admin.php:320
+msgid "By default, global plans are applied to every supported product in your catalog. You can limit these plans to specific product categories below."
+msgstr "Standaard worden algemene abonnementen toegepast op elk ondersteund product in je catalogus. Je kunt deze abonnementen hieronder beperken tot bepaalde productcategorieën."
+
+#: includes/admin/class-wcs-att-admin.php:319
+msgid "Global Subscription Plans"
+msgstr "Algemene abonnementen"
+
+#: includes/admin/class-wcs-att-admin.php:313
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:122
+msgid "Subscription Plans"
+msgstr "Abonnementen"
+
+#: includes/admin/class-wcs-att-admin.php:305
+#: includes/admin/class-wcs-att-admin.php:315
+msgid "Add some global subscription plans to make your existing products available on subscription. Individual products may override these settings."
+msgstr "Voeg een aantal algemene abonnementen toe om je bestaande producten beschikbaar te stellen als abonnement. Losse producten kunnen deze instellingen overschrijven."
+
+#: includes/admin/class-wcs-att-admin.php:268
+#: includes/admin/meta-boxes/class-wcs-att-meta-box-product-data.php:146
+msgid "Add Plan"
+msgstr "Abonnement toevoegen"
+
+#: includes/admin/class-wcs-att-admin.php:237
+msgid "Between Subscription Plans"
+msgstr "Tussen abonnementen"
+
+#: includes/admin/class-wcs-att-admin.php:167
+msgid "The installed version of <strong>All Products for Woo Subscriptions</strong> is not compatible with the <code>selectSW</code> library found on your system. Please update All Products for Woo Subscriptions to the latest version."
+msgstr "De geïnstalleerde versie van <strong>Alle producten voor WooCommerce Subscriptions</strong> is niet compatibel met de op jouw systeem aangetroffen <code>selectSW</code>-bibliotheek. Werk Alle producten voor WooCommerce Subscriptions bij naar de nieuwste versie."
+
+#. translators: onboarding url
+#: includes/admin/class-wcs-att-admin-notices.php:338
+msgid "<strong>All Products for Woo Subscriptions</strong> no longer supports Cart Subscription Plans. Your existing Cart Subscription Plans have been migrated to <a href=\"%s\">Global Subscription Plans</a> &mdash; a quick, new way to add subscription plans to your existing products in bulk."
+msgstr "<strong>Alle producten voor WooCommerce Subscriptions</strong> ondersteunt de Winkelwagenabonnementen niet meer. Je bestaande Winkelwagenabonnementen zijn verplaatst naar <a href=\"%s\">Algemene abonnementen</a>: een snelle en nieuwe manier om je abonnementen in bulk aan je bestaande producten toe te voegen."
+
+#: includes/admin/class-wcs-att-admin-notices.php:306
+msgid "Did you know that you can also <a href=\"%s\">add subscription plans to your products in bulk</a>?"
+msgstr "Wist je dat je ook <a href=\"%s\">abonnementen in bulk kunt toevoegen aan je producten</a>?"
+
+#: includes/admin/class-wcs-att-admin-notices.php:305
+msgid "Awesome &ndash; this product is now available on subscription!"
+msgstr "Geweldig, dit product is nu als abonnement verkrijgbaar!"
+
+#. translators: onboarding url
+#: includes/admin/class-wcs-att-admin-notices.php:280
+msgid "Thank you for installing <strong>All Products for Woo Subscriptions</strong>. Ready to make your products available on subscription? <a href=\"%s\">Add some global subscription plans to get started</a>.<br/>You can limit these plans to specific product categories &mdash; or, if you need more flexibility, it is possible to add custom subscription plans to individual products."
+msgstr "Dankjewel voor het installeren van <strong>Alle producten voor WooCommerce Subscriptions</strong>. Ben je er klaar voor om je producten als abonnement aan te bieden? <a href=\"%s\">Voeg een aantal algemene abonnement toe om aan de slag te gaan</a>.<br/>Je kan deze abonnementen beperken tot specifieke productcategorieën, of als je meer flexibiliteit wil, kun je ook aangepaste abonnementen toevoegen aan losse producten."
+
+#. Plugin URI of the plugin
+#: woocommerce-all-products-for-subscriptions.php
+msgid "https://woocommerce.com/products/all-products-for-woocommerce-subscriptions/"
+msgstr ""
